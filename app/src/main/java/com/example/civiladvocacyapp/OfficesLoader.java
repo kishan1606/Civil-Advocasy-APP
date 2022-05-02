@@ -18,7 +18,7 @@ import java.util.ArrayList;
 public class OfficesLoader {
 
     private static final String URL = "https://www.googleapis.com/civicinfo/v2/representatives";        //url to use
-    private static final String APIKey = "AIzaSyADXohorRoLOs1XTEuqLQcyZz0MC8m1NzI";             //Api key
+    private static final String APIKey = "API KEY";             //Api key
     private static String location;
     private static MainActivity mainActivity = new MainActivity();
 
